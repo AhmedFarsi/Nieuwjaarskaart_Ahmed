@@ -1,4 +1,4 @@
-.alles {
+.background {
 background-color: gold;
 }
 
@@ -13,4 +13,5 @@ color: black;
 display: flex;
 justify-content: center;
 font-size: 25px;
+  color: black;
 }
